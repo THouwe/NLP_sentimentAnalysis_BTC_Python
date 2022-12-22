@@ -21,7 +21,7 @@ Before analyzing the content of the tweets, Tweets underwent further preprocessi
 Scores look like this: \
 <img src="https://github.com/THouwe/NLP_sentimentAnalysis_BTC_Python/blob/main/sentiment2.JPG" width="500" height="300">
 
-<img src="https://github.com/THouwe/NLP_sentimentAnalysis_BTC_Python/blob/main/sentiment3.JPG" width="500" height="300">
+<img src="https://github.com/THouwe/NLP_sentimentAnalysis_BTC_Python/blob/main/sentiment3.JPG" width="400" height="300">
 
 Most common words in positive Tweets: \
 <img src="https://github.com/THouwe/NLP_sentimentAnalysis_BTC_Python/blob/main/positiveWords.JPG" width="500" height="300">
