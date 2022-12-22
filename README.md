@@ -9,23 +9,24 @@ Filtering for English language is done using langdetect (https://github.com/Mimi
 Sentiment analysis is done using spacytextblob (https://github.com/SamEdwardes/spacytextblob).
 
 Scraped data looked like this: \
-<img src="https://github.com/THouwe/NLP_sentimentAnalysis_BTC_Python/blob/main/noPreproc.JPG" width="100" height="100">
+<img src="https://github.com/THouwe/NLP_sentimentAnalysis_BTC_Python/blob/main/noPreproc.JPG" width="300" height="300">
 
 After preprocessing, including removal of symbols, URLs, and non-ASCII characters, and removal of non-English Tweets, data looked like this: \
-![alt text](https://github.com/THouwe/BTC_Twitter_sentiment_analysis/blob/master/preproc2.JPG?raw=true)
+<img src="https://github.com/THouwe/NLP_sentimentAnalysis_BTC_Python/blob/main/preproc2.JPG" width="300" height="300">
+
 
 Finally, sentiment analysis is carried out.
 Before analyzing the content of the tweets, Tweets underwent further preprocessing, including lemmatization (using the WordNetLemmatizer).
 
 Scores look like this: \
-![alt text](https://github.com/THouwe/BTC_Twitter_sentiment_analysis/blob/master/sentiment2.JPG?raw=true)
+<img src="https://github.com/THouwe/NLP_sentimentAnalysis_BTC_Python/blob/main/sentiment2.JPG" width="300" height="300">
 
-![alt text](https://github.com/THouwe/BTC_Twitter_sentiment_analysis/blob/master/sentiment3.JPG?raw=true)
+<img src="https://github.com/THouwe/NLP_sentimentAnalysis_BTC_Python/blob/main/sentiment3.JPG" width="300" height="300">
 
 Most common words in positive Tweets: \
-![alt text](https://github.com/THouwe/BTC_Twitter_sentiment_analysis/blob/master/positiveWords.JPG?raw=true)
+<img src="https://github.com/THouwe/NLP_sentimentAnalysis_BTC_Python/blob/main/positiveWords.JPG" width="300" height="300">
 
 Most common words in negative Tweets: \
-![alt text](https://github.com/THouwe/BTC_Twitter_sentiment_analysis/blob/master/negativeWords.JPG?raw=true)
+<img src="https://github.com/THouwe/NLP_sentimentAnalysis_BTC_Python/blob/main/negativeWords.JPG" width="300" height="300">
 
 **Conclusion:** According to this analysis, with a mean sentiment of 0.07 (SD = 0.22) there is a slight but prevalent positive opinion in BTC tweets.
