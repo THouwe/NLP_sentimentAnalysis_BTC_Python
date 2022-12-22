@@ -1,6 +1,6 @@
 # BTC_Twitter_sentiment_analysis
 
-With this script, I will downloaded and analyzed 100.000 Bitcoin (BTC) tweets from 2022-11-01 to 2022-11-15 and performed sentiment analysis to gather market intelligence. The aim of the analysis is to understand what are people’s opinions about BTC tweets.
+The [BTC_sentiment_analysis.ipynb](https://github.com/THouwe/NLP_sentimentAnalysis_BTC_Python/blob/main/BTC_sentiment_analysis.ipynb) notebook, shows how to download and preprocess 100.000 Bitcoin (BTC) tweets from 2022-11-01 to 2022-11-15 to perform sentiment analysis to gather market intelligence. The aim of the analysis is to understand what are people’s opinions about BTC tweets.
 
 Sentiment analysis consists of converting a text into a score that estimates its sentiment (e.g., demand for a given product) and can be deemed as a classification task (e.g., to extract subjectivity and sentiment polarity from text data).
 
