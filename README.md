@@ -19,14 +19,14 @@ Finally, sentiment analysis is carried out.
 Before analyzing the content of the tweets, Tweets underwent further preprocessing, including lemmatization (using the WordNetLemmatizer).
 
 Scores look like this: \
-<img src="https://github.com/THouwe/NLP_sentimentAnalysis_BTC_Python/blob/main/sentiment2.JPG" width="300" height="300">
+<img src="https://github.com/THouwe/NLP_sentimentAnalysis_BTC_Python/blob/main/sentiment2.JPG" width="500" height="300">
 
-<img src="https://github.com/THouwe/NLP_sentimentAnalysis_BTC_Python/blob/main/sentiment3.JPG" width="300" height="300">
+<img src="https://github.com/THouwe/NLP_sentimentAnalysis_BTC_Python/blob/main/sentiment3.JPG" width="500" height="300">
 
 Most common words in positive Tweets: \
-<img src="https://github.com/THouwe/NLP_sentimentAnalysis_BTC_Python/blob/main/positiveWords.JPG" width="300" height="300">
+<img src="https://github.com/THouwe/NLP_sentimentAnalysis_BTC_Python/blob/main/positiveWords.JPG" width="500" height="300">
 
 Most common words in negative Tweets: \
-<img src="https://github.com/THouwe/NLP_sentimentAnalysis_BTC_Python/blob/main/negativeWords.JPG" width="300" height="300">
+<img src="https://github.com/THouwe/NLP_sentimentAnalysis_BTC_Python/blob/main/negativeWords.JPG" width="500" height="300">
 
 **Conclusion:** According to this analysis, with a mean sentiment of 0.07 (SD = 0.22) there is a slight but prevalent positive opinion in BTC tweets.
